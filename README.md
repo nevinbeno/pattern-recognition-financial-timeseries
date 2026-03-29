@@ -1,6 +1,6 @@
 # Pattern Recognition for Financial Time Series Forecasting
 
-Name: Nevin Beno. \n
+Name: Nevin Beno. <br>
 University Register Number: TCR24CS052
 
 ### Second Assignment
